@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Thishan Perera
 
+[![An image of @thishanperera's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thishanperera)](https://holopin.io/@thishanperera)
+
+I am an undergraduate student majoring in Computer Science at University of Kelaniya.
 <!--
 **ThishanTharuka/ThishanTharuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

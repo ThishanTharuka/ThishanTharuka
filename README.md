@@ -6,12 +6,15 @@
 <h2 align=center> Hello there 👋, I'm Thishan </h2>
 
 <div id="badges" align=center>
-  <img src="https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white&link=https%3A%2F%2Fwww.facebook.com%2FThishanTharukaPerera" title="HTML" alt="Facebook Badge" />
-  <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white&link=https%3A%2F%2Ftwitter.com%2Fthishan_99" alt="X Badge"/>
-  <img src="https://img.shields.io/badge/LinkedIn-0a68c6?style=for-the-badge&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fthishan-tharuka-perera%2F" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/Reddit-ff5414?style=for-the-badge&logo=reddit&logoColor=white&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2FChabiya_99" alt="Reddit Badge"/>
-  <img src="https://img.shields.io/badge/Instagram-fa00a0?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fthishan.99%2F" alt="Instagram Badge"/>
+  
+  [![](https://img.shields.io/badge/Facebook-0866ff?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ThishanTharukaPerera)
+  [![](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/thishan_99)
+  [![](https://img.shields.io/badge/LinkedIn-0a68c6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thishan-tharuka-perera/)
+  [![](https://img.shields.io/badge/Reddit-ff5414?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Chabiya_99)
+  [![](https://img.shields.io/badge/Instagram-fa00a0?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thishan.99/)
+
 </div>
+
 
 ---
 

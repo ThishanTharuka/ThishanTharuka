@@ -21,7 +21,6 @@
 [![An image of @thishanperera's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thishanperera)](https://holopin.io/@thishanperera)
 
 - 🌱 I’m currently learning Kotlin and Python.
-- 😄 Pronouns: He/Him
 - ⚡ Love to watch Anime and play Minecraft during my free time.
 - 📫 How to reach me: thishantharuka4@gmail.com
 

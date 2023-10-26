@@ -1,6 +1,6 @@
 <div align=center>
   <!-- <img src="https://media.giphy.com/media/GraeGMXcHMKAw/giphy.gif" width="300" title="Zoro" alt="Zoro" /> -->
-  <img src="https://media.giphy.com/media/tqL9YNtXnz877vwnSi/giphy.gif" height="200" title="Zoro" alt="Zoro" />
+  <img src="https://media.giphy.com/media/tqL9YNtXnz877vwnSi/giphy.gif" height="200" title="Thishan" alt="Thishan" />
 </div>
 
 <h2 align=center> Hello there 👋, I'm Thishan </h2>
